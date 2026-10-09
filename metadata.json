@@ -1,0 +1,6 @@
+{
+  "name": "Market Watcher",
+  "description": "Smart market price tracker and AI-driven price predictor, featuring local alerts, historic trends, and nearby market comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
